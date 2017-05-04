@@ -1,0 +1,21 @@
+
+.title {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.glyphicon.glyphicon-one-fine-dot:before {
+    content: "\25cf";
+    font-size: 1.3em;
+}
+
+h4 {
+    margin-bottom: 4px;
+}
+
+.my-img {
+    float:left; 
+    max-width:150px; 
+    padding: 4px;
+    margin-top: 5px;
+}
